@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O7Dj6xp7zCQicuVlHT9ZD885GH5n5DZejFi9wRslkQHYFO3gBxnKYe4h5EaVaoR8mtjBwDKtNBbZKdThz5gWRA==",
+  "success": true,
+  "projectFilePath": "/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/Colas_Simples_Estaticas.csproj",
+  "expectedPackageFiles": [
+    "/home/alfredorios/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

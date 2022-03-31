@@ -1,0 +1,15 @@
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/bin/Debug/net6.0/Colas_Simples_Estaticas
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/bin/Debug/net6.0/Colas_Simples_Estaticas.deps.json
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/bin/Debug/net6.0/Colas_Simples_Estaticas.runtimeconfig.json
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/bin/Debug/net6.0/Colas_Simples_Estaticas.dll
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/bin/Debug/net6.0/ref/Colas_Simples_Estaticas.dll
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/bin/Debug/net6.0/Colas_Simples_Estaticas.pdb
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/obj/Debug/net6.0/Colas_Simples_Estaticas.csproj.AssemblyReference.cache
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/obj/Debug/net6.0/Colas_Simples_Estaticas.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/obj/Debug/net6.0/Colas_Simples_Estaticas.AssemblyInfoInputs.cache
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/obj/Debug/net6.0/Colas_Simples_Estaticas.AssemblyInfo.cs
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/obj/Debug/net6.0/Colas_Simples_Estaticas.csproj.CoreCompileInputs.cache
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/obj/Debug/net6.0/Colas_Simples_Estaticas.dll
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/obj/Debug/net6.0/ref/Colas_Simples_Estaticas.dll
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/obj/Debug/net6.0/Colas_Simples_Estaticas.pdb
+/run/media/alfredorios/GitHub/Colas_Simples_Estaticas/obj/Debug/net6.0/Colas_Simples_Estaticas.genruntimeconfig.cache

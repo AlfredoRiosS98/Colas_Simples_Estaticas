@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Colas_Simples_Estaticas/1.0.0": {
+        "runtime": {
+          "Colas_Simples_Estaticas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Colas_Simples_Estaticas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
